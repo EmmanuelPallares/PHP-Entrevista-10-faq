@@ -12,5 +12,8 @@ Una clase que incluye un método declarado como final puede tener clases hijas, 
 
 Nota: Hablamos de métodos porque son funciones al interior de una clase. Sin embargo, en la sintaxis de PHP, la declaración empezaría como final public function para un método público. </p>";
 
+echo "<button class='leftbutton'><a href='pregunta4.php'class='button-4'>Anterior</a></button>";
+echo "<button class='rightbutton'><a href='pregunta6.php'class='button-4'>Siguiente</a></button>";
+
 include '../includes/footer.php';
     
